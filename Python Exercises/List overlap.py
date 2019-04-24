@@ -4,6 +4,7 @@ a = random.sample(range(30),10)
 b = random.sample(range(30),10)
 
 
+
 print(a)
 print(b)
 
