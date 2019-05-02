@@ -1,4 +1,4 @@
-filters = ('valuable data','special data')
+filters = ('valuable data' 'special data')
 filtered_data = []
 
 with open('lines.txt') as opened_file:
